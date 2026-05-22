@@ -1,4 +1,4 @@
-This is a **high-compliance, defense-in-depth architecture** that treats MCP not just as a tool router, but as a **policy enforcement plane**. Below is a production-ready scaffold specifically engineered for HIPAA workloads, with strict ingress/egress controls, PII/PHI guardrails, audit trails, and Blackwell GX10 + local NIM deployment guidance.
+This is a **high-compliance, defense-in-depth architecture** that treats MCP not just as a tool router, but as a **policy enforcement plane**. Below is a production-ready scaffold specifically engineered for HIPAA workloads, with strict ingress/egress controls, PII/PHI guardrails, audit trails, and NIM deployment guidance.
 
 ---
 ## 🏗️ Architecture Overview
